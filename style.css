@@ -1,0 +1,85 @@
+.homeLinks {
+    padding: 5px;
+    border-style: double;
+    border-width: 5px;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(123, 219, 243);
+    margin: 15px;
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: aliceblue;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    background-color: aliceblue;
+}
+
+h3 {
+    text-align: center;
+    font-size: 50px;
+    background-color: aliceblue;
+}
+
+#pictures {
+    text-align: center;
+    padding: 5px;
+    border-style: groove;
+    border-color: rgb(62, 204, 27);
+    border-width: 5px;
+    margin: 15px;
+    background-color: antiquewhite;
+}
+
+#catNames {
+    text-align: center;
+    padding: 5px;
+    border-style: dashed;
+    border-color: rgb(255, 127, 255);
+    margin: 15px;
+    background-color: aliceblue;
+}
+
+#signUp {
+    text-align: center;
+    padding: 15px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: black;
+    background-color: rgb(240, 243, 60);
+    margin: 15px;
+}
+
+.table {
+    border-collapse: separate;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    border-width: 5px;
+    margin: 15px;
+    border-style: ridge;
+    border-color: rgb(196, 241, 255);
+    background-color: blanchedalmond;
+}
+
+th {
+    border-bottom: 1px solid black; 
+}
+
+td:nth-child(odd) {
+    background-color: rgb(147, 165, 42);
+}
+
+td:nth-child(even) {
+    background-color: rgb(221, 255, 25);
+}
+
+form {
+    text-align: center;
+}
